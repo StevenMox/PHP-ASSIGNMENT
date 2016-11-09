@@ -1,66 +1,21 @@
-#main {
-  background-image: url("/comp1230/assignment/PHPAssignment1/img/gbclogo2.png");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  height: 100%;
+body{
+  color: lightgrey;
 }
 
-#smalllogo {
-  position: fixed;
-  top: 0vmax;
-  width: 26%;
-  height: 33%;
-}
-
-.content {
+.header{
   text-align: center;
-  color: white;
-  border-style: solid;
-  border-width: .4%;
-  position: fixed;
-  width: 30%;
-  margin-left: 55%;
 }
 
-#enter {
-  font-size: 2.5vmax;
-  border-style: dashed;
-  border-width: .1%;
-  border-color: white;
-  width: 32%;
-  margin-left: 34%;
+.logo{
+  max-height: 200px;
+  max-width: 500px;
 }
 
-#title {
-  font-size: 2vmax;
-}
-
-.gbscript {
-  position: fixed;
-  bottom: 0vmax;
-  width: 100%;
-  color: white;
-}
-
-#mainpage {
-  background-color: #0065A4;
-}
-
-#header {
+.footer{
   text-align: center;
-  font-size: 1.75vmax;
-  color: white;
+  color: darkgrey;
 }
 
-#studentinfo {
-  text-align: center;
-  color: white;
-}
-
-#footer {
-  text-align: center;
-  position: fixed;
-  bottom: 0vmax;
-  width: 100%;
-  color: white;
+a{
+  color: darkgrey;
 }
