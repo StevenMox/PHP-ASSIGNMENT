@@ -1,26 +1,22 @@
-body{
-  color: lightgrey;
+.header {
+    text-align: center;
 }
 
-.header{
-  text-align: center;
+.logo {
+    max-height: 200px;
+    max-width: 500px;
 }
 
-.logo{
-  max-height: 200px;
-  max-width: 500px;
+.footer {
+    text-align: center;
+    color: darkgrey;
+    position: absolute;
+    bottom: 0;
+    left: 30%;
 }
 
-.footer{
-  text-align: center;
-  color: darkgrey;
-  position: absolute;
-  bottom: 0;
-  left: 30%;
-}
-
-a{
-  color: darkgrey;
+a {
+    color: darkgrey;
 }
 
 .sidenav {
@@ -45,7 +41,7 @@ a{
     transition: 0.3s
 }
 
-.sidenav a:hover, .offcanvas a:focus{
+.sidenav a:hover, .offcanvas a:focus {
     color: white;
 }
 
@@ -58,20 +54,59 @@ a{
 }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
 }
-h1{
-  text-align: center;
+
+h1 {
+    text-align: center;
+    color: #161113;
 }
-.nav1{
-  color : darkgrey;
-  position: absolute;;
-  left: 15px;
-  top: 5px;
-  bottom: 0;
+
+.nav1 {
+    color: darkgrey;
+    position: absolute;
+    ;
+    left: 15px;
+    top: 5px;
+    bottom: 0;
 }
-.loginform{
-  color: #161113;
-  text-align: center;
+
+.twitter, .insta {
+    max-height: 150px;
+    max-width: 450px;
+}
+
+.socialimages {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.socialtext {
+    margin-right: 20px;
+}
+
+.contact, .signupform, .accountsignup, .loginform, .resetpass {
+    color: #161113;
+    text-align: center;
+}
+
+.msg-box {}
+
+.msgtxt {}
+
+.gbc {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.gbclogo {
+    max-height: 100px;
+    max-width: 100px;
 }
