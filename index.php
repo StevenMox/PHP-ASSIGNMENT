@@ -14,5 +14,3 @@
     <?php include 'footer.php'; ?>
   </body>
 </html>
-
-<!-- just a test to see if things have worked -->
