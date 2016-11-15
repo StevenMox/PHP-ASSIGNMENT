@@ -4,8 +4,6 @@
   <a href="profile.php">Profile</a>
   <a href="parks.php">Parks</a>
   <a href="streetspots.php">Street Spots</a>
-  <a href="social.php">Social</a>
-  <a href="contact.php">Contact</a>
 </div>
 
 <div class=nav1>
