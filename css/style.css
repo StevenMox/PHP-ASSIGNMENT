@@ -2,6 +2,10 @@ a {
     color: darkgrey;
 }
 
+h1 {
+    text-align: center;
+}
+
 .sidenav {
     height: 100%;
     width: 0;
@@ -71,7 +75,11 @@ a {
     max-width: 100px;
 }
 
-.f1{
+.logo{
+  text-align: center;
+}
+
+/*.f1{
   position: absolute;
   bottom-right:20%;
-}
+}*/
