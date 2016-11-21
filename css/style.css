@@ -64,22 +64,24 @@ h1 {
     text-align: center;
 }
 
-.gbc {
+/*.gbc {
     position: absolute;
     bottom: 0;
     right: 0;
-}
+}*/
 
-.gbclogo {
+/*.gbclogo {
     max-height: 100px;
     max-width: 100px;
-}
-
+}*/
+/*
 .logo{
   text-align: center;
-}
 
-/*.f1{
+}*/
+/*
+#footer{
   position: absolute;
-  bottom-right:20%;
+  text-align: center;
+
 }*/

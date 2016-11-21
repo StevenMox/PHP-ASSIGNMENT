@@ -7,6 +7,6 @@
         <li role="presentation"><a href="contact.php">Contact Us</a></li>
       </ul>
     </nav>
-  <img class="logo" src="img/logo.png">
+  <img class="logo" src="img/logo.png" style="height:100px; margin-left:30px; margin-top:10px;">
 </div>
 </div>

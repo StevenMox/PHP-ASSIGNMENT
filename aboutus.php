@@ -10,9 +10,10 @@
 
 <br><br>
 
-<div style="text-align:center;">
-  <a href="https://twitter.com/6ixspots" target="_blank"><img src="icons/twitter.ico" alt="twitter not found...">  Follow Us &emsp;</a>
-  <a href="https://instagram.com/real6ixspots" target="_blank"><img src="icons/insta.ico" alt="instagram not found...">  Follow Us</a>
+<div style="text-align:center; font-size:95px; color:#322b31;">
+  <p style="font-size:45px;">Follow Us</p>
+  <a class="twitter" href="https://www.twitter.com/6ixspots/"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+  <a class="instagram" href="https://www.instagram.com/real6ixspots/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 </div>
 
 </div>
