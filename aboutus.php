@@ -12,8 +12,8 @@
 
 <div style="text-align:center; font-size:95px; color:#322b31;">
   <p style="font-size:45px;">Follow Us</p>
-  <a class="twitter" href="https://www.twitter.com/6ixspots/"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-  <a class="instagram" href="https://www.instagram.com/real6ixspots/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+  <a class="twitter" href="https://www.twitter.com/6ixspots/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+  <a class="instagram" href="https://www.instagram.com/real6ixspots/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 </div>
 
 </div>

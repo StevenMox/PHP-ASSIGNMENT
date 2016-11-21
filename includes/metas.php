@@ -12,6 +12,8 @@
   <link href="css/starter-template.css" rel="stylesheet">
   <link href="css/font-awesome.css" rel="stylesheet">
   <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/lightbox.css" rel="stylesheet">
+
 
 <script src="js/ie-emulation-modes-warning.js"></script>
 </head>
