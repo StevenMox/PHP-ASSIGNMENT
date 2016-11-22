@@ -2,7 +2,7 @@
 <?php include 'includes/header.php'; ?>
 <?php include 'includes/tabs.php'; ?>
 
-<h1>PARKS</h1>
+<h1>PARKS test</h1>
 
   <div class="container">
       <div class="row">
