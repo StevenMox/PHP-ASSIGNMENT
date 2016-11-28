@@ -35,7 +35,4 @@
 </div>
 
 
-<script type="text/javascript">
-var divOne = document.getElementById("mySidenav");
-divOne.style.visibility = "hidden";
-</script>
+<script src="js/hide.js"></script>

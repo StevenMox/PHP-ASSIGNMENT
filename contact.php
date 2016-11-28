@@ -22,3 +22,5 @@
 
 </div>
 <?php include 'includes/footer.php'; ?>
+
+<script src="js/hide.js"></script>
