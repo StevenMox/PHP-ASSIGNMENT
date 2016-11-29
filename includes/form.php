@@ -15,14 +15,14 @@
 </form>
   <br>
 
-<div class="resetpass">
+<!-- <div class="resetpass">
   <h4>Forgot Your Password?</h4>
   <form class="resetpass1" action="reset.php" method="post">
     <button class="btn btn-sm btn-primary" type="submit">Reset</button>
   </form>
-</div>
+</div> -->
 
-  <br><br><br>
+  <br><br><br><br>
   <!-- need to figure out css to make use of padding and spacing this out better -->
 
 <div class="accountsignup">
