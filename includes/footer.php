@@ -1,7 +1,7 @@
 <div class="container">
   <!-- <footer class="f1"> -->
 <!-- <div id="footer"> -->
-  <footer class="footer" style="text-align:center; position:fixed; bottom:0; marigin-right:auto; margin-left:auto; left:0; right:0; background-color:lightgrey;">&copy; All Rights Reserved, 6ixtape.
+  <footer class="footer" style="text-align:center; margin-top:10px;">&copy; All Rights Reserved, 6ixtape.
     <p>Created by <a href="https://github.com/StevenMox" target="_blank"><img style="height:23px;" src="icons/github.ico" alt="?">Steven Moxley</a>, Harsha Sharma , Jabri Haughton, Rajat Chawla </p>
 </footer>
 <!-- </div> -->

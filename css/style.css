@@ -64,6 +64,12 @@ h1 {
     text-align: center;
 }
 
+.streetspots{
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
 /*.gbc {
     position: absolute;
     bottom: 0;
