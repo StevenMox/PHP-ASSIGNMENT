@@ -16,3 +16,5 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/ie10-viewport-bug-workaround.js"></script>
     <script src="js/lightbox.js"></script>
+
+    <a href="/folder_view/vs.php?s=<?php echo __FILE__?>" target="_blank">View Source</a>

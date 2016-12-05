@@ -13,3 +13,5 @@ if(isset($_POST['submit'])){
     }
 ?>
 <?php header("refresh: 2; url= contact.php"); ?>
+
+<a href="/folder_view/vs.php?s=<?php echo __FILE__?>" target="_blank">View Source</a>

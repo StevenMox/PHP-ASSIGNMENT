@@ -9,3 +9,5 @@
 <div class=nav1>
   <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 </div>
+
+<a href="/folder_view/vs.php?s=<?php echo __FILE__?>" target="_blank">View Source</a>

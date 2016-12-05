@@ -22,3 +22,5 @@
   </div>
 
 <?php include 'includes/footer.php'; ?>
+
+<a href="/folder_view/vs.php?s=<?php echo __FILE__?>" target="_blank">View Source</a>

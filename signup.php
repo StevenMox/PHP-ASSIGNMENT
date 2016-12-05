@@ -43,6 +43,5 @@
 
 <?php include 'includes/footer.php'; ?>
 
-<script src="js/hide.js">
-
-</script>
+<!-- <script src="js/hide.js"></script> -->
+<a href="/folder_view/vs.php?s=<?php echo __FILE__?>" target="_blank">View Source</a>

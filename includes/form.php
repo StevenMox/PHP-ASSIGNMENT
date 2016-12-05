@@ -2,7 +2,7 @@
 
 <h1>LOGIN</h1>
 
-<form class="loginform" action="loginin.php" method="post">
+<form class="loginform" action="profile.php" method="post">
   <label for="text" class="sr-only">Username:</label>
     <br>
   <input type="text" name="username" value="" placeholder="Username"required>
@@ -35,4 +35,5 @@
 </div>
 
 
-<script src="js/hide.js"></script>
+<!-- <script src="js/hide.js"></script> -->
+<a href="/folder_view/vs.php?s=<?php echo __FILE__?>" target="_blank">View Source</a>
